@@ -1,0 +1,19 @@
+{
+  "cards": [
+    {
+      "id": 1,
+      "eng": "hello",
+      "esp": "hola"
+    },
+    {
+      "id": 2,
+      "eng": "bye",
+      "esp": "adios"
+    },
+    {
+      "id": 3,
+      "eng": "ice",
+      "esp": "hielo"
+    }
+  ]
+}
